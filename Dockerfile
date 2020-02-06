@@ -1,3 +1,3 @@
-FROM einstore/einstore-core:dev.fix-demo.debug
+FROM einstore/einstore-core:dev.apikey-tags
 
 EXPOSE 8080
