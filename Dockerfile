@@ -1,3 +1,3 @@
-FROM einstore/einstore-core
+FROM einstore/einstore-core:dev.master
 
 EXPOSE 8080
