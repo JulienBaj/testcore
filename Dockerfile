@@ -1,3 +1,3 @@
-FROM einstore/einstore-core:0.1.1
+FROM einstore/einstore-core:latest
 
 EXPOSE 8080
